@@ -5,6 +5,9 @@
   <img src="https://img.icons8.com/?size=100&id=RljciFZGONCD&format=png&color=000000" alt="Backend Logo" width="100"/>
 </p>
 
+Hey! I'm Christian, a Software Engineer specialized in Java and Spring Boot. I have experience building robust backend applications, RESTful APIs, and microservices. I love working with clean code, design patterns, and optimizing performance. I hope you enjoy my profile!
+
+
 ---
 
 <!-- Stats section -->
